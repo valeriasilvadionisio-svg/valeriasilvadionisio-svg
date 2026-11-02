@@ -7,6 +7,9 @@ I like building things people actually use, especially where technology meets fa
 **Projects**
 
 - [lv-moda-festa](https://github.com/valeriasilvadionisio-svg/lv-moda-festa): online store prototype for a real Brazilian party dress boutique (Node.js, Express, MySQL)
+> [!NOTE]
+> This is a student prototype built for a college module, not the store's live website. It shows how the online store could work, and it will change as the real site is developed.
+
 - [bank-organisation-system](https://github.com/valeriasilvadionisio-svg/bank-organisation-system): Java console app designed with UML first (OOP, recursion, binary tree)
 
 **Tools:** Java, JavaScript, HTML, CSS, SQL, Node.js, Express, MySQL, Git, NetBeans, VS Code
