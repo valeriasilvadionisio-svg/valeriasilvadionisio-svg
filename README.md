@@ -14,3 +14,4 @@ I like building things people actually use, especially where technology meets fa
 **Right now:** looking for my first role in IT support, web development or e-commerce in Ireland.
 
 [LinkedIn](https://www.linkedin.com/in/valeria-dionisio)
+
